@@ -95,7 +95,7 @@ supply-chain-analytics/
 Click the badge at the top of this README, or use this link:
 
 ```
-https://colab.research.google.com/github/YOUR_USERNAME/supply-chain-analytics/blob/main/notebooks/Supply_Chain_Analytics.ipynb
+https://colab.research.google.com/github/RushabhSurana/supply-chain-analytics/blob/main/notebooks/Supply_Chain_Analytics.ipynb
 ```
 
 When the notebook opens:
@@ -135,14 +135,13 @@ python scripts/data_cleaning.py
 
 | Phase | Title | Owner | Description |
 |-------|-------|-------|-------------|
-| 1 | Business Questions | Member 1 | Define 4 core analytical questions |
-| 2 | Data Audit & Cleaning | Member 2 | Identify and fix all data quality issues |
-| 3 | Feature Engineering | Member 3 | Create 9 derived analytical columns |
-| 4 | EDA | Member 4 | Univariate, bivariate, and time-based analysis |
-| 5 | Delay Probability Analysis | Member 5 | Conditional probabilities + ML model |
-| 6 | Visualisation | Member 6 | Sankey, heatmap, choropleth, bar charts |
-| 7 | SQL Queries | Members 1 & 2 | 6 business reporting queries on SQLite |
-| 8 | GenAI Optimisation | Members 3 & 4 | Claude API-powered recommendations |
+| 1 | Business Questions | Anish| Define 4 core analytical questions |
+| 2 | Data Audit & Cleaning | Rushabh | Identify and fix all data quality issues |
+| 3 | Feature Engineering | Manav | Create 9 derived analytical columns |
+| 4 | EDA | Simran | Univariate, bivariate, and time-based analysis |
+| 5 | Delay Probability Analysis | Janani | Conditional probabilities + ML model |
+| 6 | Visualisation | Shubham | Sankey, heatmap, choropleth, bar charts |
+
 
 ---
 
@@ -192,12 +191,12 @@ python scripts/data_cleaning.py
 
 | Member | Phase Ownership |
 |--------|----------------|
-| Member 1 | Business Questions (Phase 1) · SQL Queries (Phase 7) |
-| Member 2 | Data Audit & Cleaning (Phase 2) · SQL Schema (Phase 7) |
-| Member 3 | Feature Engineering (Phase 3) · GenAI Prompting (Phase 8) |
-| Member 4 | EDA (Phase 4) · GenAI Summaries (Phase 8) |
-| Member 5 | Delay Probability Analysis & ML Model (Phase 5) |
-| Member 6 | Visualisations & Charts (Phase 6) · Presentation (Phase 6) |
+| Anish  | Business Questions (Phase 1) · SQL Queries (Phase 7) |
+| Rushabh| Data Audit & Cleaning (Phase 2) · SQL Schema (Phase 7) |
+| Manav | Feature Engineering (Phase 3) · GenAI Prompting (Phase 8) |
+| Simran | EDA (Phase 4) · GenAI Summaries (Phase 8) |
+| Janani | Delay Probability Analysis & ML Model (Phase 5) |
+| Shubham | Visualisations & Charts (Phase 6) · Presentation (Phase 6) |
 
 ---
 
