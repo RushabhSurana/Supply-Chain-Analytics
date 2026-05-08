@@ -2,7 +2,7 @@
 
 > **Identifying Delay Drivers & Optimising Logistics Performance Across India-Centric Global Trade Routes**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/supply-chain-analytics/blob/main/notebooks/Supply_Chain_Analytics.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/RushabhSurana/Suppy-Chain-Analytics-/blob/main/notebooks/Supply_Chain_Analytics.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
